@@ -2,8 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Howdy. 
-I'm new to Github.
-Nice to meet'cha.
+> SORRY, I HAVE TO LOCK YOU IN THE GUEST ROOM UNTIL UNDYNE ARRIVES. FEEL FREE TO MAKE YOURSELF AT HOME!!! REFRESHMENTS AND ACCOMMODATIONS HAVE BEEN PROVIDED. 
+> -NYEHFULLY YOURS, PAPYRUS.
 
 Use the left arrow to go back!
